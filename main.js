@@ -1,0 +1,6 @@
+$().ready(function(){
+	
+	loadXML();
+
+});
+
