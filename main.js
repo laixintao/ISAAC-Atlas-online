@@ -1,6 +1,6 @@
 $().ready(function(){
 	
-	get_active_tools_atlas()
+	var active_tools = get_active_tools_atlas();
 
 });
 
