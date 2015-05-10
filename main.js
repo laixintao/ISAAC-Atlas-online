@@ -3,17 +3,19 @@ var active_tools;
 $().ready(function(){
 	
 	active_tools = get_active_tools_atlas();
-	display_photo(active_tools);
+	display_active_tools(active_tools);
 
 });
 
-function display_photo(all){
+//展示主动道具的图片
+function display_active_tools(all){
 	for(var i=0;i<all.length;i++){
 		var photo = "<img class='active_tools'  id='img"+all[i].id+"' src='graphics/active_tools/"+(all[i].id+1)+".png' />";
 		$("#active").append(photo);
 	}
 };
 
+//设置监听，显示查询的主动道具的内容
 $(document).delegate(".active_tools","click",function(){
 	var click_id=this.id;
 	click_id = click_id.replace("img","");
@@ -26,3 +28,4 @@ $(document).delegate(".active_tools","click",function(){
 	$("#display > p").detach();  //先移除之前的元素，在添加新的
 	$("#display").append(str);
 });
+
