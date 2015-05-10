@@ -1,37 +1,32 @@
-<atlas>
-	<id>0</id>
+<atlas class="passive_tools" id="0"
 	<type>被动道具</type>
 	<en_name><3</en_name>
 	<ch_name><3</ch_name>
 	<effect>获得一个心之容器（血量上限），并回满所有红心</effect>
 </atlas>
 
-<atlas>
-	<id>1</id>
+<atlas class="passive_tools" id="1"
 	<type>被动道具</type>
 	<en_name>20/20</en_name>
 	<ch_name>20/20</ch_name>
 	<effect>每次攻击同时射出两滴眼泪。</effect>
 </atlas>
 
-<atlas>
-	<id>2</id>
+<atlas class="passive_tools" id="2"
 	<type>被动道具</type>
 	<en_name>3 Dollar Bill</en_name>
 	<ch_name>3美元的账单</ch_name>
 	<effect>每个房间里，都会给予眼泪一种特殊效果。特殊效果在进门的时候更换。</effect>
 </atlas>
 
-<atlas>
-	<id>3</id>
+<atlas class="passive_tools" id="3"
 	<type>被动道具</type>
 	<en_name>Anemic</en_name>
 	<ch_name>贫血</ch_name>
 	<effect>你的角色在受伤之后，随着行动，身后会留下一滩血迹，伤害上面的敌人。离开当前房间后效果消失。</effect>
 </atlas>
 
-<atlas>
-	<id>4</id>
+<atlas class="passive_tools" id="4"
 	<type>被动道具</type>
 	<en_name>Anti Gravity</en_name>
 	<ch_name>反重力眼泪</ch_name>
@@ -39,96 +34,84 @@
     同屏幕的悬浮眼泪最大数额是10颗，当达到最大值的时候，第一颗眼泪将会自动射出。</effect>
 </atlas>
 
-<atlas>
-	<id>5</id>
+<atlas class="passive_tools" id="5"
 	<type>被动道具</type>
 	<en_name>Aquarius</en_name>
 	<ch_name>水瓶座</ch_name>
 	<effect>在你走过的路上留下蓝色的圣水，伤害走过上面的敌人</effect>
 </atlas>
 
-<atlas>
-	<id>6</id>
+<atlas class="passive_tools" id="6"
 	<type>被动道具</type>
 	<en_name>Aries</en_name>
 	<ch_name>白羊座</ch_name>
 	<effect>增加速度，而且你的头上会长出两只角，角碰到敌人的时候会造成伤害。</effect>
 </atlas>
 
-<atlas>
-	<id>7</id>
+<atlas class="passive_tools" id="7"
 	<type>被动道具</type>
 	<en_name>Ball of Bandages</en_name>
 	<ch_name>绷带球</ch_name>
 	<effect>一个类似于肉块的环绕物，能挡住该方向的子弹，并对触碰到的敌人造成伤害。</effect>
 </atlas>
 
-<atlas>
-	<id>8</id>
+<atlas class="passive_tools" id="8"
 	<type>被动道具</type>
 	<en_name>Ball of Tar</en_name>
 	<ch_name>沥青球</ch_name>
 	<effect>随着行动，角色的身后会留下一条沥青道路，减速踩到上面的敌人。</effect>
 </atlas>
 
-<atlas>
-	<id>9</id>
+<atlas class="passive_tools" id="9"
 	<type>被动道具</type>
 	<en_name>The Battery</en_name>
 	<ch_name>电池</ch_name>
 	<effect>你的主动物品获得“超载”的能力，可以充能一直充到可以使用两次为止。（即能量消耗不变，能量上限提高一倍）</effect>
 </atlas>
 
-<atlas>
-	<id>10</id>
+<atlas class="passive_tools" id="10"
 	<type>被动道具</type>
 	<en_name>The Belt</en_name>
 	<ch_name>皮带</ch_name>
 	<effect>增加移动速度</effect>
 </atlas>
 
-<atlas>
-	<id>11</id>
+<atlas class="passive_tools" id="11"
 	<type>被动道具</type>
 	<en_name>Best Bud</en_name>
 	<ch_name>好兄弟/死党</ch_name>
 	<effect>受到攻击的时候，召唤出白苍蝇（类似于敬而远之的效果），在离开当前房间后消失。</effect>
 </atlas>
 
-<atlas>
-	<id>12</id>
+<atlas class="passive_tools" id="12"
 	<type>被动道具</type>
 	<en_name>BFFS!</en_name>
 	<ch_name>最好的朋友们！</ch_name>
 	<effect>你的环绕物和随从宝宝们变得更大，伤害更强。</effect>
 </atlas>
 
-<atlas>
-	<id>13</id>
+<atlas class="passive_tools" id="13"
 	<type>被动道具</type>
 	<en_name>BBF</en_name>
 	<ch_name>大黑苍蝇（莫非是Big Black Fly? 大概吧..）</ch_name>
 	<effect>在全场作匀速直线飞行，触碰到墙壁会反弹，触碰到敌人会爆炸并造成大量伤害（如果你在爆炸范围内，你也会受到1点伤害），爆炸之后10秒会在身边重生。</effect>
 </atlas>
 
-<atlas>
-	<id>14</id>
+<atlas class="passive_tools" id="14"
 	<type>被动道具</type>
 	<en_name>Big Fan</en_name>
 	<ch_name>大风扇</ch_name>
 	<effect>缓慢地环绕你的角色飞行，并挡住该方向的敌人和子弹。会对触碰到的敌人造成伤害，但是伤害能力是所有环绕物中最弱的。</effect>
 </atlas>
 
-<atlas>
-	<id>15</id>
+<atlas class="passive_tools" id="15"
 	<type>被动道具</type>
 	<en_name>The Black Bean</en_name>
 	<ch_name>黑豆</ch_name>
 	<effect>当你的角色受到伤害，你的角色放出臭屁，对身边的敌人造成毒性伤害。</effect>
 </atlas>
 
-<atlas>
-	<id>16</id>
+<atlas class="passive_tools" id="16"
 	<type>被动道具</type>
 	<en_name>Black Candle</en_name>
 	<ch_name>黑蜡烛</ch_name>
@@ -136,56 +119,49 @@
     如果你在拾取该物品的时候有诅咒，则移除该诅咒。</effect>
 </atlas>
 
-<atlas>
-	<id>17</id>
+<atlas class="passive_tools" id="17"
 	<type>被动道具</type>
 	<en_name>Black Lotus</en_name>
 	<ch_name>黑莲花</ch_name>
 	<effect>增加一格心之容器（红心上限），获得一颗蓝心和一颗黑心。</effect>
 </atlas>
 
-<atlas>
-	<id>18</id>
+<atlas class="passive_tools" id="18"
 	<type>被动道具</type>
 	<en_name>Blood Bag</en_name>
 	<ch_name>血袋</ch_name>
 	<effect>增加一个心之容器（红心上限），增加速度，并且恢复至多4颗红心。</effect>
 </atlas>
 
-<atlas>
-	<id>19</id>
+<atlas class="passive_tools" id="19"
 	<type>被动道具</type>
 	<en_name>Blood Clot</en_name>
 	<ch_name>血块</ch_name>
 	<effect>增加伤害和射程。</effect>
 </atlas>
 
-<atlas>
-	<id>20</id>
+<atlas class="passive_tools" id="20"
 	<type>被动道具</type>
 	<en_name>Blood Of The Martyr</en_name>
 	<ch_name>殉难者之血</ch_name>
 	<effect>增加1点伤害，并将你的眼泪转化为血泪。</effect>
 </atlas>
 
-<atlas>
-	<id>21</id>
+<atlas class="passive_tools" id="21"
 	<type>被动道具</type>
 	<en_name>Bloody Lust</en_name>
 	<ch_name>嗜血</ch_name>
 	<effect>每当你受到伤害，你的攻击力将会增加，加攻效果在进入下一层的时候重置。</effect>
 </atlas>
 
-<atlas>
-	<id>22</id>
+<atlas class="passive_tools" id="22"
 	<type>被动道具</type>
 	<en_name>Blue Cap</en_name>
 	<ch_name>蓝帽子菇</ch_name>
 	<effect>增加1个心之容器，降低你的子弹飞行速度（shoot speed down），并增加射速 (tears up)。</effect>
 </atlas>
 
-<atlas>
-	<id>23</id>
+<atlas class="passive_tools" id="23"
 	<type>被动道具</type>
 	<en_name>Blue Map</en_name>
 	<ch_name>蓝地图</ch_name>
@@ -196,80 +172,70 @@
     与水晶球不同的是，他只显示隐藏的位置，不会显示其他房间的位置。</effect>
 </atlas>
 
-<atlas>
-	<id>24</id>
+<atlas class="passive_tools" id="24"
 	<type>被动道具</type>
 	<en_name>Bob*s Brain</en_name>
 	<ch_name>鲍伯的头颅</ch_name>
 	<effect>这是一个随从。他将冲向你攻击的方向，并在撞到敌人后自爆，产生等同于毒炸弹的效果。如果没有攻击到敌人，将会回到你的身边重新准备攻击。爆炸之后一段时间在你的身边重生。</effect>
 </atlas>
 
-<atlas>
-	<id>25</id>
+<atlas class="passive_tools" id="25"
 	<type>被动道具</type>
 	<en_name>The Common Cold</en_name>
 	<ch_name>流感</ch_name>
 	<effect>让你的眼泪带有毒性效果，持续2.5秒。</effect>
 </atlas>
 
-<atlas>
-	<id>26</id>
+<atlas class="passive_tools" id="26"
 	<type>被动道具</type>
 	<en_name>Bob*s Curse</en_name>
 	<ch_name>鲍伯的诅咒</ch_name>
 	<effect>给你5个炸弹，你的炸弹将带有毒性效果。</effect>
 </atlas>
 
-<atlas>
-	<id>27</id>
+<atlas class="passive_tools" id="27"
 	<type>被动道具</type>
 	<en_name>Bobby-Bomb</en_name>
 	<ch_name>暴走炸弹</ch_name>
 	<effect>拾取时给你5个炸弹。你的炸弹将缓慢地靠近最近的敌人。</effect>
 </atlas>
 
-<atlas>
-	<id>28</id>
+<atlas class="passive_tools" id="28"
 	<type>被动道具</type>
 	<en_name>Bogo Bombs</en_name>
 	<ch_name>炸弹买一送一</ch_name>
 	<effect>你每捡起一个炸弹，将会获得两个！</effect>
 </atlas>
 
-<atlas>
-	<id>29</id>
+<atlas class="passive_tools" id="29"
 	<type>被动道具</type>
 	<en_name>Bomb Bag</en_name>
 	<ch_name>炸弹袋</ch_name>
 	<effect>一个小袋子将会跟随你行动，每3个房间，从袋子中会掉出一个炸弹类掉落（包括普通炸弹，1+1炸弹，或者暴漫脸炸弹）</effect>
 </atlas>
 
-<atlas>
-	<id>30</id>
+<atlas class="passive_tools" id="30"
 	<type>被动道具</type>
 	<en_name>Boom!</en_name>
 	<ch_name>砰！</ch_name>
 	<effect>给你10个炸弹</effect>
 </atlas>
 
-<atlas>
-	<id>31</id>
+<atlas class="passive_tools" id="31"
 	<type>被动道具</type>
 	<en_name>Box</en_name>
 	<ch_name>盒子</ch_name>
 	<effect>拾取的时候，掉落一个硬币，一个钥匙，一个炸弹，一颗心，一个药丸，一张牌和一个饰品</effect>
 </atlas>
 
-<atlas>
-	<id>32</id>
+<atlas class="passive_tools" id="32"
 	<type>被动道具</type>
 	<en_name>Breakfast</en_name>
 	<ch_name>早餐/牛奶</ch_name>
 	<effect>增加一个心之容器（红心上限）</effect>
 </atlas>
 
-<atlas>
-	<id>33</id>
+<atlas class="passive_tools" id="33"
 	<type>被动道具</type>
 	<en_name>Brimstone</en_name>
 	<ch_name>硫磺火</ch_name>
@@ -313,40 +279,35 @@
     小小星球+S型虫+硫磺火</effect>
 </atlas>
 
-<atlas>
-	<id>34</id>
+<atlas class="passive_tools" id="34"
 	<type>被动道具</type>
 	<en_name>Broken Watch</en_name>
 	<ch_name>坏掉的怀表</ch_name>
 	<effect>有一定几率在进房的时候造成全场敌人减速，还有极小的几率造成全场敌人加速。效果持续到离开房间为止。</effect>
 </atlas>
 
-<atlas>
-	<id>35</id>
+<atlas class="passive_tools" id="35"
 	<type>被动道具</type>
 	<en_name>Brother Bobby</en_name>
 	<ch_name>波比弟弟</ch_name>
 	<effect>一个随从，能射出普通的眼泪。（最平庸的跟随物）</effect>
 </atlas>
 
-<atlas>
-	<id>36</id>
+<atlas class="passive_tools" id="36"
 	<type>被动道具</type>
 	<en_name>Bucket Of Lard</en_name>
 	<ch_name>一桶猪油</ch_name>
 	<effect>给予角色2个空的心之容器（红心上限），然后回复半颗红心，但是会降低一点速度。</effect>
 </atlas>
 
-<atlas>
-	<id>37</id>
+<atlas class="passive_tools" id="37"
 	<type>被动道具</type>
 	<en_name>Bum Friend</en_name>
 	<ch_name>损友</ch_name>
 	<effect>一个随从，他会跟随你并捡取地上的硬币，捡取硬币之后有一定几率产生掉落物。（如钱，炸弹，硬币等）</effect>
 </atlas>
 
-<atlas>
-	<id>38</id>
+<atlas class="passive_tools" id="38"
 	<type>被动道具</type>
 	<en_name>Butt Bombs</en_name>
 	<ch_name>翔味儿炸弹</ch_name>
@@ -354,24 +315,21 @@
     你的炸弹爆炸的时候，房间将会弥漫一股淡黄色的屎雾，房间内的敌人进入混乱状态（头上冒星星），被减速和随机乱走，此时非Boss敌人无法攻击。</effect>
 </atlas>
 
-<atlas>
-	<id>39</id>
+<atlas class="passive_tools" id="39"
 	<type>被动道具</type>
 	<en_name>Caffeine Pill</en_name>
 	<ch_name>咖啡因药丸</ch_name>
 	<effect>增加速度，减小角色体积，同时给你一颗随机的药丸。</effect>
 </atlas>
 
-<atlas>
-	<id>40</id>
+<atlas class="passive_tools" id="40"
 	<type>被动道具</type>
 	<en_name>Cain*s Other Eye</en_name>
 	<ch_name>该隐的另一只眼</ch_name>
 	<effect>给予一个在你身边弹跳的眼球，随着你的攻击，它会向同方向射出眼泪。</effect>
 </atlas>
 
-<atlas>
-	<id>41</id>
+<atlas class="passive_tools" id="41"
 	<type>被动道具</type>
 	<en_name>Hive Mind</en_name>
 	<ch_name>集体心智</ch_name>
@@ -380,24 +338,21 @@
     游迅网www.yxdown.com</effect>
 </atlas>
 
-<atlas>
-	<id>42</id>
+<atlas class="passive_tools" id="42"
 	<type>被动道具</type>
 	<en_name>???*s Only Friend</en_name>
 	<ch_name>小蓝人唯一的朋友</ch_name>
 	<effect>给你一个可操控的跟随者苍蝇，伤害触碰到的敌人。（用方向键操控。）</effect>
 </atlas>
 
-<atlas>
-	<id>43</id>
+<atlas class="passive_tools" id="43"
 	<type>被动道具</type>
 	<en_name>1up!</en_name>
 	<ch_name>1条命！</ch_name>
 	<effect>给你一次复活的机会，死亡之后，将会满红心复活并失去1UP！</effect>
 </atlas>
 
-<atlas>
-	<id>44</id>
+<atlas class="passive_tools" id="44"
 	<type>被动道具</type>
 	<en_name>9 Volt</en_name>
 	<ch_name>⑨伏特</ch_name>
@@ -405,8 +360,7 @@
     与饰品AAA电池游迅网www.yxdown.com完美叠加，因为AAA电池是使用物品之后获得1格能量槽，而⑨伏特则是减少1格充能时间。</effect>
 </atlas>
 
-<atlas>
-	<id>45</id>
+<atlas class="passive_tools" id="45"
 	<type>被动道具</type>
 	<en_name>Abaddon</en_name>
 	<ch_name>地狱</ch_name>
@@ -415,24 +369,21 @@
     虽然并没有文本显示，但是会稍微降低移动速度和射程。</effect>
 </atlas>
 
-<atlas>
-	<id>46</id>
+<atlas class="passive_tools" id="46"
 	<type>被动道具</type>
 	<en_name>Abel</en_name>
 	<ch_name>亚伯</ch_name>
 	<effect>这个随从会与你作完全相反的运动，射出方向相反的眼泪。</effect>
 </atlas>
 
-<atlas>
-	<id>47</id>
+<atlas class="passive_tools" id="47"
 	<type>被动道具</type>
 	<en_name>Ankh</en_name>
 	<ch_name>安卡（十字章）</ch_name>
 	<effect>你死亡之后，将会移除所有心之容器，以小蓝人（？？？）的身份复活，并获得3颗蓝心</effect>
 </atlas>
 
-<atlas>
-	<id>48</id>
+<atlas class="passive_tools" id="48"
 	<type>被动道具</type>
 	<en_name>Body</en_name>
 	<ch_name>体</ch_name>
@@ -440,8 +391,7 @@
     （用the lost击败？？？解锁）</effect>
 </atlas>
 
-<atlas>
-	<id>49</id>
+<atlas class="passive_tools" id="49"
 	<type>被动道具</type>
 	<en_name>Mind</en_name>
 	<ch_name>心</ch_name>
@@ -449,8 +399,7 @@
     （用the lost击败撒旦解锁）</effect>
 </atlas>
 
-<atlas>
-	<id>50</id>
+<atlas class="passive_tools" id="50"
 	<type>被动道具</type>
 	<en_name>Soul</en_name>
 	<ch_name>魂</ch_name>
@@ -458,72 +407,63 @@
     （用the lost击败the lamb解锁）</effect>
 </atlas>
 
-<atlas>
-	<id>51</id>
+<atlas class="passive_tools" id="51"
 	<type>被动道具</type>
 	<en_name>Cancer</en_name>
 	<ch_name>巨蟹座</ch_name>
 	<effect>你的角色变成像章鱼一样的形状，增加3颗蓝心，触碰到敌人会造成毒性伤害。你在受伤之后的一段时间，所有伤害强制变为半颗心的伤害。（即受到一次伤害后获得短时间圣饼效果）</effect>
 </atlas>
 
-<atlas>
-	<id>52</id>
+<atlas class="passive_tools" id="52"
 	<type>被动道具</type>
 	<en_name>Capricorn</en_name>
 	<ch_name>魔蝎座</ch_name>
 	<effect>全属性加1，同时获得1个硬币、1个炸弹、1个钥匙。</effect>
 </atlas>
 
-<atlas>
-	<id>53</id>
+<atlas class="passive_tools" id="53"
 	<type>被动道具</type>
 	<en_name>Cat-O-Nine-Tails</en_name>
 	<ch_name>九尾鞭</ch_name>
 	<effect>鞭子的效果在重生中得到了全新的增强！现在不但会增加子弹射速，还会增加伤害</effect>
 </atlas>
 
-<atlas>
-	<id>54</id>
+<atlas class="passive_tools" id="54"
 	<type>被动道具</type>
 	<en_name>Celtic Cross</en_name>
 	<ch_name>凯尔特十字架</ch_name>
 	<effect>受到伤害的时候，有20%的几率激活一个7秒无敌的保护型圣盾。</effect>
 </atlas>
 
-<atlas>
-	<id>55</id>
+<atlas class="passive_tools" id="55"
 	<type>被动道具</type>
 	<en_name>Ceremonial Robes</en_name>
 	<ch_name>幽魂斗篷</ch_name>
 	<effect>增加3颗黑心，同时增加你的罪恶值（恶魔房间几率和黑心掉落几率up）</effect>
 </atlas>
 
-<atlas>
-	<id>56</id>
+<atlas class="passive_tools" id="56"
 	<type>被动道具</type>
 	<en_name>Champion Belt</en_name>
 	<ch_name>冠军腰带</ch_name>
 	<effect>增加攻击力，同时增加精英怪的出现几率（就是那种带颜色，有各种能力，特别难打的怪）</effect>
 </atlas>
 
-<atlas>
-	<id>57</id>
+<atlas class="passive_tools" id="57"
 	<type>被动道具</type>
 	<en_name>Charm Of The Vampire</en_name>
 	<ch_name>吸血鬼之魅</ch_name>
 	<effect>每杀死13个敌人，为你回复半格红心</effect>
 </atlas>
 
-<atlas>
-	<id>58</id>
+<atlas class="passive_tools" id="58"
 	<type>被动道具</type>
 	<en_name>Chemical Peel</en_name>
 	<ch_name>化学蜕变</ch_name>
 	<effect>从左眼射出的眼泪增加伤害。</effect>
 </atlas>
 
-<atlas>
-	<id>59</id>
+<atlas class="passive_tools" id="59"
 	<type>被动道具</type>
 	<en_name>Chocolate Milk</en_name>
 	<ch_name>巧克力牛奶</ch_name>
@@ -537,16 +477,14 @@
     与科技1：如果先拿巧克力牛奶，再拿科技1，则科技1不但会覆盖掉巧克力奶，还会极大地减少伤害。</effect>
 </atlas>
 
-<atlas>
-	<id>60</id>
+<atlas class="passive_tools" id="60"
 	<type>被动道具</type>
 	<en_name>The Compass</en_name>
 	<ch_name>罗盘/指南针</ch_name>
 	<effect>显示本层的所有特殊房间，包括Boss房，宝物房，商店等。但是不会显示普通房间和隐藏房间。</effect>
 </atlas>
 
-<atlas>
-	<id>61</id>
+<atlas class="passive_tools" id="61"
 	<type>被动道具</type>
 	<en_name>Contract From Below</en_name>
 	<ch_name>来自地狱的契约</ch_name>
@@ -554,16 +492,14 @@
     和商店购买的1+1 Free游迅网www.yxdown.com 可以同时作用，掉落双倍的复合物品（比如两个1+1炸弹）</effect>
 </atlas>
 
-<atlas>
-	<id>62</id>
+<atlas class="passive_tools" id="62"
 	<type>被动道具</type>
 	<en_name>Cricket*s Body</en_name>
 	<ch_name>蟋蟀的身体</ch_name>
 	<effect>全面增加属性（待证实），且你的攻击造成溅射伤害，在击中一个目标之后或者达到最大射程后，它会溅射出4个较小的、射程较短的子弹。</effect>
 </atlas>
 
-<atlas>
-	<id>63</id>
+<atlas class="passive_tools" id="63"
 	<type>被动道具</type>
 	<en_name>Cricket*s Head</en_name>
 	<ch_name>蟋蟀的头/狗头</ch_name>
@@ -571,24 +507,21 @@
     从金箱子和宝物房都能拿到，可以说是后期让攻击力产生质变的装备之一。</effect>
 </atlas>
 
-<atlas>
-	<id>64</id>
+<atlas class="passive_tools" id="64"
 	<type>被动道具</type>
 	<en_name>Cube Of Meat</en_name>
 	<ch_name>肉块</ch_name>
 	<effect>在你身边产生一个环绕物，挡住子弹并伤害靠近的敌人。</effect>
 </atlas>
 
-<atlas>
-	<id>65</id>
+<atlas class="passive_tools" id="65"
 	<type>被动道具</type>
 	<en_name>Cupid*s Arrow</en_name>
 	<ch_name>丘比特之箭</ch_name>
 	<effect>你的攻击将会带有穿透敌人的效果，失去击退能力。</effect>
 </atlas>
 
-<atlas>
-	<id>66</id>
+<atlas class="passive_tools" id="66"
 	<type>被动道具</type>
 	<en_name>Cursed Eye</en_name>
 	<ch_name>被诅咒之眼</ch_name>
@@ -601,8 +534,7 @@
     注4：你问为什么？除非你是大触手，打Boss无伤，不然打两下就传走，你受得了？</effect>
 </atlas>
 
-<atlas>
-	<id>67</id>
+<atlas class="passive_tools" id="67"
 	<type>被动道具</type>
 	<en_name>God Head</en_name>
 	<ch_name>上帝之首</ch_name>
@@ -615,16 +547,14 @@
     解锁方式：使用The Lost通关所有困难模式的Boss</effect>
 </atlas>
 
-<atlas>
-	<id>68</id>
+<atlas class="passive_tools" id="68"
 	<type>被动道具</type>
 	<en_name>Missing No.</en_name>
 	<ch_name>失落的源数之力</ch_name>
 	<effect>随机你身上的所有道具，然后每进入新的一层，本道具都再触发一次。</effect>
 </atlas>
 
-<atlas>
-	<id>69</id>
+<atlas class="passive_tools" id="69"
 	<type>被动道具</type>
 	<en_name>Daddy Longlegs</en_name>
 	<ch_name>爸爸的长腿</ch_name>
@@ -632,8 +562,7 @@
     爸腿砸下的延时1秒，再充能时间4秒。优先攻击Boss和精英怪，如果没有，则攻击离你最近的敌人。能秒杀绝大部分的小怪，对Boss伤害约为八分之一的血量。</effect>
 </atlas>
 
-<atlas>
-	<id>70</id>
+<atlas class="passive_tools" id="70"
 	<type>被动道具</type>
 	<en_name>Dark Bum</en_name>
 	<ch_name>黑暗流浪者</ch_name>
@@ -641,24 +570,21 @@
     本作最强随从，有了他，相当于你的血量上限变为12。有了他，所有的心之容器都是累赘（如果能用猫爪子的话就全弄掉吧！）有了他，手残通关再无压力！</effect>
 </atlas>
 
-<atlas>
-	<id>71</id>
+<atlas class="passive_tools" id="71"
 	<type>被动道具</type>
 	<en_name>Dark Matter</en_name>
 	<ch_name>黑暗物质</ch_name>
 	<effect>你的攻击有几率恐惧敌人</effect>
 </atlas>
 
-<atlas>
-	<id>72</id>
+<atlas class="passive_tools" id="72"
 	<type>被动道具</type>
 	<en_name>Dead Bird</en_name>
 	<ch_name>死鸟</ch_name>
 	<effect>受到伤害之后飞出，自动寻敌并攻击。仅在当前房间有效，出房间之后再次受伤才会激活。</effect>
 </atlas>
 
-<atlas>
-	<id>73</id>
+<atlas class="passive_tools" id="73"
 	<type>被动道具</type>
 	<en_name>Dead Cat</en_name>
 	<ch_name>九命猫</ch_name>
@@ -667,40 +593,35 @@
     可以在恶魔房用最后一个红心来交易，这样红心会变回1。</effect>
 </atlas>
 
-<atlas>
-	<id>74</id>
+<atlas class="passive_tools" id="74"
 	<type>被动道具</type>
 	<en_name>Dead Dove</en_name>
 	<ch_name>死亡的和平鸽</ch_name>
 	<effect>让你的子弹获得穿透障碍物的能力（透明子弹），并让你获得飞行</effect>
 </atlas>
 
-<atlas>
-	<id>75</id>
+<atlas class="passive_tools" id="75"
 	<type>被动道具</type>
 	<en_name>Dead Onion</en_name>
 	<ch_name>烂洋葱</ch_name>
 	<effect>你的子弹变得更大，获得穿过障碍物和穿透敌人的能力。但是射程和子弹飞行速度显著下降。</effect>
 </atlas>
 
-<atlas>
-	<id>76</id>
+<atlas class="passive_tools" id="76"
 	<type>被动道具</type>
 	<en_name>Death*s Touch</en_name>
 	<ch_name>死神的触碰/镰刀</ch_name>
 	<effect>你的子弹变为镰刀，获得穿透敌人的能力，失去击退效果。伤害增加。</effect>
 </atlas>
 
-<atlas>
-	<id>77</id>
+<atlas class="passive_tools" id="77"
 	<type>被动道具</type>
 	<en_name>Demon Baby</en_name>
 	<ch_name>恶魔宝宝</ch_name>
 	<effect>这个宝宝会跟随你，并向其射程范围内的敌人自动开火</effect>
 </atlas>
 
-<atlas>
-	<id>78</id>
+<atlas class="passive_tools" id="78"
 	<type>被动道具</type>
 	<en_name>Dessert</en_name>
 	<ch_name>甜点</ch_name>
@@ -709,24 +630,21 @@
 	</effect>
 </atlas>
 
-<atlas>
-	<id>79</id>
+<atlas class="passive_tools" id="79"
 	<type>被动道具</type>
 	<en_name>Dinner</en_name>
 	<ch_name>晚餐</ch_name>
 	<effect>增加一格心之容器</effect>
 </atlas>
 
-<atlas>
-	<id>80</id>
+<atlas class="passive_tools" id="80"
 	<type>被动道具</type>
 	<en_name>Distant Admiration</en_name>
 	<ch_name>遥远的仰慕</ch_name>
 	<effect>一个红色苍蝇以中距离围绕你旋转并对敌人造成伤害。</effect>
 </atlas>
 
-<atlas>
-	<id>81</id>
+<atlas class="passive_tools" id="81"
 	<type>被动道具</type>
 	<en_name>A Dollar</en_name>
 	<ch_name>一美元</ch_name>
@@ -734,8 +652,7 @@
     通常是赌博机赌爆之后得到。</effect>
 </atlas>
 
-<atlas>
-	<id>82</id>
+<atlas class="passive_tools" id="82"
 	<type>被动道具</type>
 	<en_name>Dr. Fetus</en_name>
 	<ch_name>婴儿博士</ch_name>
@@ -746,8 +663,7 @@
     4、Soy milk：豆奶。你射出多枚炸弹。</effect>
 </atlas>
 
-<atlas>
-	<id>83</id>
+<atlas class="passive_tools" id="83"
 	<type>被动道具</type>
 	<en_name>Dry Baby</en_name>
 	<ch_name>干瘪的小孩</ch_name>
@@ -756,24 +672,21 @@
     炸掉骷髅头有几率出。</effect>
 </atlas>
 
-<atlas>
-	<id>84</id>
+<atlas class="passive_tools" id="84"
 	<type>被动道具</type>
 	<en_name>E Coli</en_name>
 	<ch_name>DNA连接酶——我更愿意叫他精子...</ch_name>
 	<effect>触碰到你的敌人都会变成大便！</effect>
 </atlas>
 
-<atlas>
-	<id>85</id>
+<atlas class="passive_tools" id="85"
 	<type>被动道具</type>
 	<en_name>Epic Fetus</en_name>
 	<ch_name>史诗婴儿</ch_name>
 	<effect>你的每次攻击都变为指向性导弹轰炸！类似于物品【博士的遥控器】</effect>
 </atlas>
 
-<atlas>
-	<id>86</id>
+<atlas class="passive_tools" id="86"
 	<type>被动道具</type>
 	<en_name>Eve*s Mascara</en_name>
 	<ch_name>夏娃的睫毛膏</ch_name>
@@ -781,72 +694,63 @@
     用EVE通过Boss Rush解锁。</effect>
 </atlas>
 
-<atlas>
-	<id>87</id>
+<atlas class="passive_tools" id="87"
 	<type>被动道具</type>
 	<en_name>Experimental Treatment</en_name>
 	<ch_name>实验性疗法</ch_name>
 	<effect> 你的全部数值+1，然后将他们打乱。</effect>
 </atlas>
 
-<atlas>
-	<id>88</id>
+<atlas class="passive_tools" id="88"
 	<type>被动道具</type>
 	<en_name>Fanny Pack</en_name>
 	<ch_name>腰包</ch_name>
 	<effect>当你收到伤害时，有几率掉落随机物品（如硬币、钥匙、炸弹等）</effect>
 </atlas>
 
-<atlas>
-	<id>89</id>
+<atlas class="passive_tools" id="89"
 	<type>被动道具</type>
 	<en_name>Fate</en_name>
 	<ch_name>命运</ch_name>
 	<effect>获得飞行，获得一个蓝心</effect>
 </atlas>
 
-<atlas>
-	<id>90</id>
+<atlas class="passive_tools" id="90"
 	<type>被动道具</type>
 	<en_name>Fire Mind</en_name>
 	<ch_name>烈火雄心</ch_name>
 	<effect>你的眼泪变为火焰眼泪，灼烧敌人并造成持续伤害。你的攻击有几率发生爆炸并在地上留下一团燃烧的火焰。爆炸可能会伤到你自己，但是火焰不会。</effect>
 </atlas>
 
-<atlas>
-	<id>91</id>
+<atlas class="passive_tools" id="91"
 	<type>被动道具</type>
 	<en_name>Forever Alone</en_name>
 	<ch_name>孤独终老</ch_name>
 	<effect>一个远距离的环绕蓝苍蝇，伤害碰到的敌人（伤害不如中距离的红苍蝇高）</effect>
 </atlas>
 
-<atlas>
-	<id>92</id>
+<atlas class="passive_tools" id="92"
 	<type>被动道具</type>
 	<en_name>Gemini</en_name>
 	<ch_name>双子座</ch_name>
 	<effect>产生一个用脐带和你连在一起的宝宝，它会攻击范围内的敌人，但是无法离你太远。其攻击有几率产生魅惑效果。（类似于Boss:Gemini的效果）</effect>
 </atlas>
 
-<atlas>
-	<id>93</id>
+<atlas class="passive_tools" id="93"
 	<type>被动道具</type>
 	<en_name>Ghost Baby</en_name>
 	<ch_name>幽灵宝宝</ch_name>
 	<effect>一个随从，其眼泪具有穿透能力。</effect>
 </atlas>
 
-<atlas>
-	<id>94</id>
+<atlas class="passive_tools" id="94"
 	<type>被动道具</type>
 	<en_name>Gimpy</en_name>
 	<ch_name>俚跛？</ch_name>
 	<effect>受到伤害有几率掉落蓝心或黑心（几率约为15%）</effect>
 </atlas>
 
-<atlas>
-	<id>95</id>
+<atlas class="passive_tools" id="95"
 	<type>被动道具</type>
 	<en_name>Gnawed Leaf</en_name>
 	<ch_name>被咬了一口的叶子</ch_name>
@@ -854,8 +758,7 @@
     只要你有耐心有时间，这就是一个神器。与一切伤害型被动（如各种环绕苍蝇、爸爸的腿等）能无伤刷一切，与迈达斯之手也有良好的配合（触碰到的敌人变成金块）</effect>
 </atlas>
 
-<atlas>
-	<id>96</id>
+<atlas class="passive_tools" id="96"
 	<type>被动道具</type>
 	<en_name>Goat Head</en_name>
 	<ch_name>山羊头</ch_name>
@@ -865,8 +768,7 @@
     ③每层必定出天使或者恶魔房间，即使是在第一层。</effect>
 </atlas>
 
-<atlas>
-	<id>97</id>
+<atlas class="passive_tools" id="97"
 	<type>被动道具</type>
 	<en_name>Guardian Angel</en_name>
 	<ch_name>守护天使</ch_name>
@@ -874,40 +776,35 @@
     ②其他环绕物的旋转速度加倍</effect>
 </atlas>
 
-<atlas>
-	<id>98</id>
+<atlas class="passive_tools" id="98"
 	<type>被动道具</type>
 	<en_name>Growth Hormones 　</en_name>
 	<ch_name>生长激素</ch_name>
 	<effect>增加速度和伤害</effect>
 </atlas>
 
-<atlas>
-	<id>99</id>
+<atlas class="passive_tools" id="99"
 	<type>被动道具</type>
 	<en_name>Guillotine</en_name>
 	<ch_name>断头台</ch_name>
 	<effect>你的头部变成一个环绕物，围绕你的身体旋转，能挡子弹。（当然，眼泪还是从头部射出）</effect>
 </atlas>
 
-<atlas>
-	<id>100</id>
+<atlas class="passive_tools" id="100"
 	<type>被动道具</type>
 	<en_name>Guppy*s Collar</en_name>
 	<ch_name>猫颈圈</ch_name>
 	<effect>当你死亡的时候，有50%的几率以二分之一格红心的状态复活。</effect>
 </atlas>
 
-<atlas>
-	<id>101</id>
+<atlas class="passive_tools" id="101"
 	<type>被动道具</type>
 	<en_name>Guppy*s Hair Ball 　</en_name>
 	<ch_name>嗝屁猫的毛球</ch_name>
 	<effect>这个物体会紧紧跟随你，你能够通过李毅大帝的成名招式：蚌埠回旋(╰_╯)来将其使劲甩向敌人。如果杀死了敌人，这个毛球会变得更大，更凶猛！</effect>
 </atlas>
 
-<atlas>
-	<id>102</id>
+<atlas class="passive_tools" id="102"
 	<type>被动道具</type>
 	<en_name>Guppy*s Tail</en_name>
 	<ch_name>猫尾巴</ch_name>
@@ -915,112 +812,98 @@
     ②隐藏属性：当你清理完房间之后，什么都得不到的几率也会升高</effect>
 </atlas>
 
-<atlas>
-	<id>103</id>
+<atlas class="passive_tools" id="103"
 	<type>被动道具</type>
 	<en_name>Habit</en_name>
 	<ch_name>修女服</ch_name>
 	<effect>当你收到伤害，增加主动物品的1格充能槽。</effect>
 </atlas>
 
-<atlas>
-	<id>104</id>
+<atlas class="passive_tools" id="104"
 	<type>被动道具</type>
 	<en_name>The Halo</en_name>
 	<ch_name>光环</ch_name>
 	<effect>所有属性+1（包括心之容器）</effect>
 </atlas>
 
-<atlas>
-	<id>105</id>
+<atlas class="passive_tools" id="105"
 	<type>被动道具</type>
 	<en_name>Halo Of Flies</en_name>
 	<ch_name>苍蝇光环</ch_name>
 	<effect>给你两个贴身环绕的苍蝇，也是惯例的挡子弹+触碰伤害。</effect>
 </atlas>
 
-<atlas>
-	<id>106</id>
+<atlas class="passive_tools" id="106"
 	<type>被动道具</type>
 	<en_name>Harlequin Baby</en_name>
 	<ch_name>滑稽宝宝</ch_name>
 	<effect>一个每次攻击射出两发眼泪的宝宝，子弹呈V字型分散射出。</effect>
 </atlas>
 
-<atlas>
-	<id>107</id>
+<atlas class="passive_tools" id="107"
 	<type>被动道具</type>
 	<en_name>Headless Baby</en_name>
 	<ch_name>无头宝宝</ch_name>
 	<effect>一个跟随你的无头随从，不会攻击，但是会在身后留下一条血路，伤害走过的敌人。</effect>
 </atlas>
 
-<atlas>
-	<id>108</id>
+<atlas class="passive_tools" id="108"
 	<type>被动道具</type>
 	<en_name>Holy Grail</en_name>
 	<ch_name>圣杯</ch_name>
 	<effect>增加1格心之容器，让你获得飞行的能力。</effect>
 </atlas>
 
-<atlas>
-	<id>109</id>
+<atlas class="passive_tools" id="109"
 	<type>被动道具</type>
 	<en_name>Holy Mantle</en_name>
 	<ch_name>神圣护蓬</ch_name>
 	<effect>防止你在每一个房间受到的第一次伤害</effect>
 </atlas>
 
-<atlas>
-	<id>110</id>
+<atlas class="passive_tools" id="110"
 	<type>被动道具</type>
 	<en_name>Holy Water</en_name>
 	<ch_name>圣水</ch_name>
 	<effect>当你受到伤害，瓶子碎裂并在地上留下一滩淡蓝色的水迹，伤害所有无飞行能力的敌人。（类似于前面的漏尿事故）当你进入一个新房间的时候，瓶子会刷新。</effect>
 </atlas>
 
-<atlas>
-	<id>111</id>
+<atlas class="passive_tools" id="111"
 	<type>被动道具</type>
 	<en_name>Hot Bombs</en_name>
 	<ch_name>炽热炸弹</ch_name>
 	<effect>让你的炸弹转化为燃烧型火属性炸弹，并在拾取的时候炸弹数+5</effect>
 </atlas>
 
-<atlas>
-	<id>112</id>
+<atlas class="passive_tools" id="112"
 	<type>被动道具</type>
 	<en_name>Humbling Bundle</en_name>
 	<ch_name>大概是捆绑销售啥的？</ch_name>
 	<effect>将所有掉落转换为1+1的形式。（比如炸弹会变成两个黏在一起的炸弹)</effect>
 </atlas>
 
-<atlas>
-	<id>113</id>
+<atlas class="passive_tools" id="113"
 	<type>被动道具</type>
 	<en_name>Infamy</en_name>
 	<ch_name>声名狼藉 　</ch_name>
 	<effect>一个灰棕色的面具，有很大几率为你挡下来自正面的子弹。</effect>
 </atlas>
 
-<atlas>
-	<id>114</id>
+<atlas class="passive_tools" id="114"
 	<type>被动道具</type>
 	<en_name>Infestation</en_name>
 	<ch_name>侵染</ch_name>
 	<effect>每当你受到伤害，随机产生1-3只蓝色苍蝇</effect>
 </atlas>
 
-<atlas>
-	<id>115</id>
+<atlas class="passive_tools" id="115"
 	<type>被动道具</type>
 	<en_name>Infestation 2</en_name>
 	<ch_name>侵染-2</ch_name>
 	<effect>当你杀死一个敌人，会将其尸体立刻转化为一个友方的蓝色蜘蛛。（必须是以撒自己杀死，不能是随从杀）</effect>
 </atlas>
 
-<atlas>
-	<id>116</id>
+<atlas class="passive_tools" id="116"
 	<type>被动道具</type>
 	<en_name>The Inner Eye</en_name>
 	<ch_name>天眼</ch_name>
@@ -1028,24 +911,21 @@
     配合型神器：配合硫磺火就是三道火，配合博士的遥控器就是三个炸，配合科技1就是三道激光...等等</effect>
 </atlas>
 
-<atlas>
-	<id>117</id>
+<atlas class="passive_tools" id="117"
 	<type>被动道具</type>
 	<en_name>Ipecac</en_name>
 	<ch_name>吐根</ch_name>
 	<effect>将你的普通攻击变为吐出一个绿色的爆炸物，造成毒素+爆炸伤害。</effect>
 </atlas>
 
-<atlas>
-	<id>118</id>
+<atlas class="passive_tools" id="118"
 	<type>被动道具</type>
 	<en_name>Iron Bar</en_name>
 	<ch_name>铁块</ch_name>
 	<effect>你有一定几率射出铁质眼泪，对怪物造成混乱效果（头上冒小星星）</effect>
 </atlas>
 
-<atlas>
-	<id>119</id>
+<atlas class="passive_tools" id="119"
 	<type>被动道具</type>
 	<en_name>Isaac*s Heart</en_name>
 	<ch_name>以撒的心脏</ch_name>
@@ -1053,24 +933,21 @@
     用the lost打通以撒（天堂关），可以解锁本道具</effect>
 </atlas>
 
-<atlas>
-	<id>120</id>
+<atlas class="passive_tools" id="120"
 	<type>被动道具</type>
 	<en_name>Jesus Juice</en_name>
 	<ch_name>耶稣果汁</ch_name>
 	<effect>增加0.5的攻击力，增加射程。</effect>
 </atlas>
 
-<atlas>
-	<id>121</id>
+<atlas class="passive_tools" id="121"
 	<type>被动道具</type>
 	<en_name>Judas‘ Shadow</en_name>
 	<ch_name>犹大之影</ch_name>
     增加一条额外的生命：当你死亡的时候，以犹大的身份复活，复活之后仅带有3个黑心。</effect>
 </atlas>
 
-<atlas>
-	<id>122</id>
+<atlas class="passive_tools" id="122"
 	<type>被动道具</type>
 	<en_name>Juicy Sack</en_name>
 	<ch_name>多汁的麻袋</ch_name>
@@ -1078,8 +955,7 @@
     ②每次进入新的房间，都会召唤出1-2只蓝色蜘蛛。</effect>
 </atlas>
 
-<atlas>
-	<id>123</id>
+<atlas class="passive_tools" id="123"
 	<type>被动道具</type>
 	<en_name>Key Piece 1 /Key Piece 2</en_name>
 	<ch_name>钥匙碎片1/钥匙碎片2</ch_name>
@@ -1087,24 +963,21 @@
 	<effect>碎片本身并没有效果，但是当你凑齐两个碎片，就能够打开Mega撒旦（最终boss）的黄金房门。</effect>
 </atlas>
 
-<atlas>
-	<id>124</id>
+<atlas class="passive_tools" id="124"
 	<type>被动道具</type>
 	<en_name>Latch Key</en_name>
 	<ch_name>门闩的钥匙</ch_name>
 	<effect>幸运值增加，同时掉落2个钥匙，拾取的时候还会额外获得一颗蓝心。</effect>
 </atlas>
 
-<atlas>
-	<id>125</id>
+<atlas class="passive_tools" id="125"
 	<type>被动道具</type>
 	<en_name>The Ladder</en_name>
 	<ch_name>梯子</ch_name>
 	<effect>通过摆放梯子，让你可以走过1个空格宽的裂缝。</effect>
 </atlas>
 
-<atlas>
-	<id>126</id>
+<atlas class="passive_tools" id="126"
 	<type>被动道具</type>
 	<en_name>Lazarus* Rags</en_name>
 	<ch_name>拉撒路的褴褛衣</ch_name>
@@ -1112,16 +985,14 @@
     注意，当使用人物阿扎塞尔（小恶魔），复活之后将失去短程灵魂火的能力。</effect>
 </atlas>
 
-<atlas>
-	<id>127</id>
+<atlas class="passive_tools" id="127"
 	<type>被动道具</type>
 	<en_name>Leech 　</en_name>
 	<ch_name>水蛭</ch_name>
 	<effect>召唤出一个黑色水蛭，他会在靠近敌人时自动攻击。每次它成功杀死一个敌人，为你回复半格红心。</effect>
 </atlas>
 
-<atlas>
-	<id>128</id>
+<atlas class="passive_tools" id="128"
 	<type>被动道具</type>
 	<en_name>Leo</en_name>
 	<ch_name>狮子座</ch_name>
@@ -1129,8 +1000,7 @@
     切记：碾碎蘑菇有很大的几率出毒雾，血少/药片不好就不要碾了</effect>
 </atlas>
 
-<atlas>
-	<id>129</id>
+<atlas class="passive_tools" id="129"
 	<type>被动道具</type>
 	<en_name>Libra</en_name>
 	<ch_name>天秤座</ch_name>
@@ -1140,24 +1010,21 @@
     注：吃到豆奶Soy Milk之后，因为射速爆表，平均之后不但攻速快，而且攻击力会得到显著的提升</effect>
 </atlas>
 
-<atlas>
-	<id>130</id>
+<atlas class="passive_tools" id="130"
 	<type>被动道具</type>
 	<en_name>Lil* Brimstone</en_name>
 	<ch_name>小小硫磺火</ch_name>
 	<effect>一个能射出硫磺火的随从，当然，它的攻击也是跟硫磺火一样需要蓄力松开才能射出，如果你一直按住攻击键，它是不会攻击的。</effect>
 </atlas>
 
-<atlas>
-	<id>131</id>
+<atlas class="passive_tools" id="131"
 	<type>被动道具</type>
 	<en_name>Lil* Haunt</en_name>
 	<ch_name>小小幽魂</ch_name>
 	<effect>一个幽灵随从，会自动攻击敌人并一定几率造成恐惧效果。</effect>
 </atlas>
 
-<atlas>
-	<id>132</id>
+<atlas class="passive_tools" id="132"
 	<type>被动道具</type>
 	<en_name>Little Baggy</en_name>
 	<ch_name>小药袋</ch_name>
@@ -1166,48 +1033,42 @@
     ③此后的所有塔罗牌掉落将会转化为药丸掉落</effect>
 </atlas>
 
-<atlas>
-	<id>133</id>
+<atlas class="passive_tools" id="133"
 	<type>被动道具</type>
 	<en_name>Little C.H.A.D.</en_name>
 	<ch_name>小CHAD</ch_name>
 	<effect>一个跟随你的红色宝宝，每两个房间会掉落半个红心。</effect>
 </atlas>
 
-<atlas>
-	<id>134</id>
+<atlas class="passive_tools" id="134"
 	<type>被动道具</type>
 	<en_name>Little Chubby</en_name>
 	<ch_name>小胖呆</ch_name>
 	<effect>一个蛆虫型的随从，会随着你的攻击往前冲锋，穿透敌人并造成大量伤害。然后回到你的身边整装待发。</effect>
 </atlas>
 
-<atlas>
-	<id>135</id>
+<atlas class="passive_tools" id="135"
 	<type>被动道具</type>
 	<en_name>Little Gish</en_name>
 	<ch_name>小杰斯/煤球宝宝</ch_name>
 	<effect>围绕在你的身边，随着你的攻击射出黑色沥青眼泪。该眼泪会在几秒内显著降低敌人的移动速度、子弹飞行速度和射程。</effect>
 </atlas>
 
-<atlas>
-	<id>136</id>
+<atlas class="passive_tools" id="136"
 	<type>被动道具</type>
 	<en_name>Little Steve</en_name>
 	<ch_name>小史蒂夫</ch_name>
 	<effect>一个随从，跟随你并射出跟踪子弹</effect>
 </atlas>
 
-<atlas>
-	<id>137</id>
+<atlas class="passive_tools" id="137"
 	<type>被动道具</type>
 	<en_name>Loki*s Horns</en_name>
 	<ch_name>洛基的角</ch_name>
 	<effect>让你的攻击有几率向上下左右四个方向同时射出。</effect>
 </atlas>
 
-<atlas>
-	<id>138</id>
+<atlas class="passive_tools" id="138"
 	<type>被动道具</type>
 	<en_name>Lord Of The Pit</en_name>
 	<ch_name>深渊领主</ch_name>
@@ -1215,8 +1076,7 @@
     ②增加1点速度</effect>
 </atlas>
 
-<atlas>
-	<id>139</id>
+<atlas class="passive_tools" id="139"
 	<type>被动道具</type>
 	<en_name>Lost Contact</en_name>
 	<ch_name>失去联系</ch_name>
@@ -1226,8 +1086,7 @@
     ②与烂洋葱：你的每个子弹可以抵消多个子弹，直到他们射中敌人或者达到最大射程才消失。</effect>
 </atlas>
 
-<atlas>
-	<id>140</id>
+<atlas class="passive_tools" id="140"
 	<type>被动道具</type>
 	<en_name>Lucky Foot</en_name>
 	<ch_name>幸运脚　</ch_name>
@@ -1238,8 +1097,7 @@
     ⑤增加从金箱子里面获得道具的几率。</effect>
 </atlas>
 
-<atlas>
-	<id>141</id>
+<atlas class="passive_tools" id="141"
 	<type>被动道具</type>
 	<en_name>The Ludovico Technique</en_name>
 	<ch_name>鲁多维科科技/科技3</ch_name>
@@ -1247,24 +1105,21 @@
     与硫磺火结合将形成强大的火圈。.</effect>
 </atlas>
 
-<atlas>
-	<id>142</id>
+<atlas class="passive_tools" id="142"
 	<type>被动道具</type>
 	<en_name>A Lump Of Coal</en_name>
 	<ch_name>煤块</ch_name>
 	<effect>根据子弹飞行的距离增加伤害，越远伤害越大。</effect>
 </atlas>
 
-<atlas>
-	<id>143</id>
+<atlas class="passive_tools" id="143"
 	<type>被动道具</type>
 	<en_name>Lunch</en_name>
 	<ch_name>午餐</ch_name>
 	<effect>增加一格心之容器。</effect>
 </atlas>
 
-<atlas>
-	<id>144</id>
+<atlas class="passive_tools" id="144"
 	<type>被动道具</type>
 	<en_name>Maggy*s Bow</en_name>
 	<ch_name>玛姬的弓</ch_name>
@@ -1272,8 +1127,7 @@
     ②你在拾取半个红心的时候，有很大几率回复1个红心。</effect>
 </atlas>
 
-<atlas>
-	<id>145</id>
+<atlas class="passive_tools" id="145"
 	<type>被动道具</type>
 	<en_name>Magic 8 Ball</en_name>
 	<ch_name>魔力8号球</ch_name>
@@ -1281,8 +1135,7 @@
     ②捡起本道具的时候，随机掉落一张塔罗牌。</effect>
 </atlas>
 
-<atlas>
-	<id>146</id>
+<atlas class="passive_tools" id="146"
 	<type>被动道具</type>
 	<en_name>Magic Mushroom</en_name>
 	<ch_name>魔法蘑菇</ch_name>
@@ -1291,8 +1144,7 @@
     ②拾取时，回复你所有红心</effect>
 </atlas>
 
-<atlas>
-	<id>147</id>
+<atlas class="passive_tools" id="147"
 	<type>被动道具</type>
 	<en_name>Magic Scab</en_name>
 	<ch_name>魔力血痂</ch_name>
@@ -1300,16 +1152,14 @@
     ②增加一个心之容器。</effect>
 </atlas>
 
-<atlas>
-	<id>148</id>
+<atlas class="passive_tools" id="148"
 	<type>被动道具</type>
 	<en_name>Magneto</en_name>
 	<ch_name>磁铁</ch_name>
 	<effect>所有掉落物都会向你飞过来。</effect>
 </atlas>
 
-<atlas>
-	<id>149</id>
+<atlas class="passive_tools" id="149"
 	<type>被动道具</type>
 	<en_name>The Mark</en_name>
 	<ch_name>印记</ch_name>
@@ -1317,8 +1167,7 @@
     ②拾取时增加1个蓝心。</effect>
 </atlas>
 
-<atlas>
-	<id>150</id>
+<atlas class="passive_tools" id="150"
 	<type>被动道具</type>
 	<en_name>Match Book</en_name>
 	<ch_name>火柴盒</ch_name>
@@ -1327,32 +1176,28 @@
     ③罪恶值增加</effect>
 </atlas>
 
-<atlas>
-	<id>151</id>
+<atlas class="passive_tools" id="151"
 	<type>被动道具</type>
 	<en_name>MEAT!</en_name>
 	<ch_name>肉！</ch_name>
 	<effect>增加1个心之容器，同时增加伤害。</effect>
 </atlas>
 
-<atlas>
-	<id>152</id>
+<atlas class="passive_tools" id="152"
 	<type>被动道具</type>
 	<en_name>Midas‘ Touch</en_name>
 	<ch_name>迈达斯之手</ch_name>
 	<effect>你触碰到的敌人会被眩晕并变成金色，如果在这个形态下将其打死，它会掉落1-4个不等的硬币。</effect>
 </atlas>
 
-<atlas>
-	<id>153</id>
+<atlas class="passive_tools" id="153"
 	<type>被动道具</type>
 	<en_name>Mini Mush</en_name>
 	<ch_name>小蘑菇</ch_name>
 	<effect>增加1点速度，1点射程。常见于炸掉地上的蘑菇之后，出的几率还蛮高的。</effect>
 </atlas>
 
-<atlas>
-	<id>154</id>
+<atlas class="passive_tools" id="154"
 	<type>被动道具</type>
 	<en_name>Missing Page 2</en_name>
 	<ch_name>失落之章2</ch_name>
@@ -1360,56 +1205,49 @@
     ②当你生命掉到1格红心的时候，触发死灵书效果，伤害全场敌人。</effect>
 </atlas>
 
-<atlas>
-	<id>155</id>
+<atlas class="passive_tools" id="155"
 	<type>被动道具</type>
 	<en_name>Mitre</en_name>
 	<ch_name>教皇冠</ch_name>
 	<effect>极大地增加蓝心掉落的几率。（大约50%掉落的红心会转化为蓝心）</effect>
 </atlas>
 
-<atlas>
-	<id>156</id>
+<atlas class="passive_tools" id="156"
 	<type>被动道具</type>
 	<en_name>Mom*s Coin Purse</en_name>
 	<ch_name>妈妈的硬币袋</ch_name>
 	<effect>拾取时在身边掉落4个药丸。</effect>
 </atlas>
 
-<atlas>
-	<id>157</id>
+<atlas class="passive_tools" id="157"
 	<type>被动道具</type>
 	<en_name>Mom*s Contacts</en_name>
 	<ch_name>妈妈的接触</ch_name>
 	<effect>你的眼泪有几率触发石化效果。</effect>
 </atlas>
 
-<atlas>
-	<id>158</id>
+<atlas class="passive_tools" id="158"
 	<type>被动道具</type>
 	<en_name>Mom*s Eye</en_name>
 	<ch_name>妈妈的眼</ch_name>
 	<effect>让你的攻击有几率同时从脑后射出（即同时向前向后攻击），几率取决于你的幸运值（Luck）</effect>
 </atlas>
 
-<atlas>
-	<id>159</id>
+<atlas class="passive_tools" id="159"
 	<type>被动道具</type>
 	<en_name>Mom*s Eyeshadow</en_name>
 	<ch_name>妈妈的眼影</ch_name>
 	<effect>你的攻击有几率魅惑敌人。</effect>
 </atlas>
 
-<atlas>
-	<id>160</id>
+<atlas class="passive_tools" id="160"
 	<type>被动道具</type>
 	<en_name>Mom*s Heels</en_name>
 	<ch_name>妈妈的高跟鞋</ch_name>
 	<effect>增加射程</effect>
 </atlas>
 
-<atlas>
-	<id>161</id>
+<atlas class="passive_tools" id="161"
 	<type>被动道具</type>
 	<en_name>Mom*s Key</en_name>
 	<ch_name>妈妈的钥匙</ch_name>
@@ -1417,8 +1255,7 @@
     ②从现在开始掉落的所有钥匙都是成对出现的</effect>
 </atlas>
 
-<atlas>
-	<id>162</id>
+<atlas class="passive_tools" id="162"
 	<type>被动道具</type>
 	<en_name>Mom*s Knife</en_name>
 	<ch_name>妈刀</ch_name>
@@ -1434,16 +1271,14 @@
     小小独角兽之类得无敌效果（全身彩色光）虽然不能攻击，但是依然可以近战戳出妈刀的伤害。</effect>
 </atlas>
 
-<atlas>
-	<id>163</id>
+<atlas class="passive_tools" id="163"
 	<type>被动道具</type>
 	<en_name>Mom*s Lipstick</en_name>
 	<ch_name>妈妈的唇膏</ch_name>
 	<effect>增加射程。</effect>
 </atlas>
 
-<atlas>
-	<id>164</id>
+<atlas class="passive_tools" id="164"
 	<type>被动道具</type>
 	<en_name>Mom*s Perfume</en_name>
 	<ch_name>妈妈的香水</ch_name>
@@ -1451,24 +1286,21 @@
     ②你的子弹有大约15%的几率造成恐惧效果</effect>
 </atlas>
 
-<atlas>
-	<id>165</id>
+<atlas class="passive_tools" id="165"
 	<type>被动道具</type>
 	<en_name>Mom*s Purse</en_name>
 	<ch_name>妈妈的钱包</ch_name>
 	<effect>提供一个额外的饰品位置</effect>
 </atlas>
 
-<atlas>
-	<id>166</id>
+<atlas class="passive_tools" id="166"
 	<type>被动道具</type>
 	<en_name>Mom*s Underwear</en_name>
 	<ch_name>妈妈的内裤</ch_name>
 	<effect>增加射程。</effect>
 </atlas>
 
-<atlas>
-	<id>167</id>
+<atlas class="passive_tools" id="167"
 	<type>被动道具</type>
 	<en_name>Mom*s Wig</en_name>
 	<ch_name>妈妈的假发</ch_name>
@@ -1480,16 +1312,14 @@
     带有集体心智（Hive Mind）将会让每个周期的上限变为10只，同时增加蜘蛛的大小。</effect>
 </atlas>
 
-<atlas>
-	<id>168</id>
+<atlas class="passive_tools" id="168"
 	<type>被动道具</type>
 	<en_name>Money = Power</en_name>
 	<ch_name>金钱就是力量！　</ch_name>
 	<effect>增加你的攻击力，增加的幅度取决于你当前拥有的金钱。</effect>
 </atlas>
 
-<atlas>
-	<id>169</id>
+<atlas class="passive_tools" id="169"
 	<type>被动道具</type>
 	<en_name>Mongo Baby</en_name>
 	<ch_name>蒙戈宝宝</ch_name>
@@ -1498,16 +1328,14 @@
     蒙戈宝宝的射速很快。</effect>
 </atlas>
 
-<atlas>
-	<id>170</id>
+<atlas class="passive_tools" id="170"
 	<type>被动道具</type>
 	<en_name>Monstro's Lung</en_name>
 	<ch_name>萌死戳的肺</ch_name>
 	<effect>你的攻击需要蓄力，然后射出一片散弹。</effect>
 </atlas>
 
-<atlas>
-	<id>171</id>
+<atlas class="passive_tools" id="171"
 	<type>被动道具</type>
 	<en_name>Mr. Mega</en_name>
 	<ch_name>大爆炸先生</ch_name>
@@ -1515,16 +1343,14 @@
     ②你此后释放的所有炸弹伤害变高，爆炸范围变大。</effect>
 </atlas>
 
-<atlas>
-	<id>172</id>
+<atlas class="passive_tools" id="172"
 	<type>被动道具</type>
 	<en_name>The Mulligan</en_name>
 	<ch_name>附加一击</ch_name>
 	<effect>你在成功击中敌人后，有几率产出蓝色苍蝇。</effect>
 </atlas>
 
-<atlas>
-	<id>173</id>
+<atlas class="passive_tools" id="173"
 	<type>被动道具</type>
 	<en_name>Mutant Spider</en_name>
 	<ch_name>四眼蜘蛛</ch_name>
@@ -1532,8 +1358,7 @@
     ②射速降低很多。</effect>
 </atlas>
 
-<atlas>
-	<id>174</id>
+<atlas class="passive_tools" id="174"
 	<type>被动道具</type>
 	<en_name>My Reflection</en_name>
 	<ch_name>反射镜</ch_name>
@@ -1541,32 +1366,28 @@
     ②将你的射程重置回初始状态（待证实）</effect>
 </atlas>
 
-<atlas>
-	<id>175</id>
+<atlas class="passive_tools" id="175"
 	<type>被动道具</type>
 	<en_name>Mysterious Liquid</en_name>
 	<ch_name>迷之液体</ch_name>
 	<effect>你的攻击将带有溅射性的毒性伤害，而且击中之后在地上留下一滩绿色的毒液（持续时间很短）</effect>
 </atlas>
 
-<atlas>
-	<id>176</id>
+<atlas class="passive_tools" id="176"
 	<type>被动道具</type>
 	<en_name>Mystery Sack</en_name>
 	<ch_name>谜之袋</ch_name>
 	<effect>增加清理完房间之后的掉落概率。</effect>
 </atlas>
 
-<atlas>
-	<id>177</id>
+<atlas class="passive_tools" id="177"
 	<type>被动道具</type>
 	<en_name>Number One</en_name>
 	<ch_name>尿液</ch_name>
 	<effect>你的攻击速度升到极高，你的射程降到最低。</effect>
 </atlas>
 
-<atlas>
-	<id>178</id>
+<atlas class="passive_tools" id="178"
 	<type>被动道具</type>
 	<en_name>The Negative</en_name>
 	<ch_name>底片/黑全家福</ch_name>
@@ -1574,24 +1395,21 @@
     ②每当你伤血伤到只剩半格红心，对全场敌人造成伤害（如果你没有红心，则每次受伤都会触发死灵书效果）</effect>
 </atlas>
 
-<atlas>
-	<id>179</id>
+<atlas class="passive_tools" id="179"
 	<type>被动道具</type>
 	<en_name>Odd Mushroom (Large)</en_name>
 	<ch_name>肥大的奇异蘑菇　</ch_name>
 	<effect>增加伤害，增加一个空的心之容器，增加射程，降低速度。</effect>
 </atlas>
 
-<atlas>
-	<id>180</id>
+<atlas class="passive_tools" id="180"
 	<type>被动道具</type>
 	<en_name>Odd Mushroom (Thin)</en_name>
 	<ch_name>瘦长的奇异蘑菇</ch_name>
 	<effect>增加速度，使射速增加到最大值，减少1点攻击力。</effect>
 </atlas>
 
-<atlas>
-	<id>181</id>
+<atlas class="passive_tools" id="181"
 	<type>被动道具</type>
 	<en_name>Old Bandage</en_name>
 	<ch_name>旧创可贴</ch_name>
@@ -1599,16 +1417,14 @@
     ②当你受伤的时候，有几率掉落一个红心。</effect>
 </atlas>
 
-<atlas>
-	<id>182</id>
+<atlas class="passive_tools" id="182"
 	<type>被动道具</type>
 	<en_name>Ouija Board</en_name>
 	<ch_name>通灵板</ch_name>
 	<effect>让你的攻击变为穿透攻击。</effect>
 </atlas>
 
-<atlas>
-	<id>183</id>
+<atlas class="passive_tools" id="183"
 	<type>被动道具</type>
 	<en_name>The Pact</en_name>
 	<ch_name>条约</ch_name>
@@ -1616,8 +1432,7 @@
     ②拾取时给你2颗魂心。</effect>
 </atlas>
 
-<atlas>
-	<id>184</id>
+<atlas class="passive_tools" id="184"
 	<type>被动道具</type>
 	<en_name>Pageant Boy</en_name>
 	<ch_name>华服男孩</ch_name>
