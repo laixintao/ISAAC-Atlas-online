@@ -1,7 +1,8 @@
-function loadXML(){
-	xmlDoc=loadXMLDoc("/source/active_tools.xml");
-	//xmlDoc=loadXMLDoc("/source/passive_tools.xml");
-	x=xmlDoc.getElementsByTagName("type");
-	//document.write(x[2].childNodes[0].nodeValue);
-	alert(x);
+xmlDoc=loadXMLDoc("/source/active_tools.xml");
+document.write("xmlDoc is loaded, ready for use");
+
+dom_atlas = xmlDoc.getElementByTagName("atlas");
+
+for(x in dom_atlas){
+	document.write(x);
 }

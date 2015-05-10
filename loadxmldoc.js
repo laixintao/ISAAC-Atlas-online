@@ -15,7 +15,7 @@ catch(e)
 try 
   {
   xmlDoc.async=false;
-  //xmlDoc.load(dname);
+  xmlDoc.load(dname);
   return(xmlDoc);
   }
 catch(e) {alert(e.message)}
