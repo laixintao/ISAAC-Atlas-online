@@ -1,7 +1,7 @@
 //如果添加新道具，需要修改：
 
 var num_active_tools = 73;
-var num_passive_tools = 184;
+var num_Accessories = 184;
 
 //**************************************
 
@@ -34,7 +34,7 @@ function get_active_tools_atlas(){
 
 
 
-function creat_passive_tools_atlas(id,type,en_name,ch_name,effect){
+function creat_Accessories(id,type,en_name,ch_name,effect){
 	var active_tools_atlas = new Object();
 	active_tools_atlas.id = id;
 	active_tools_atlas.type=type;
@@ -45,17 +45,17 @@ function creat_passive_tools_atlas(id,type,en_name,ch_name,effect){
 }
 
 
-function get_passive_tools_atlas(){
+function get_Accessories(){
 	var all_atlas = new Array();
 
-	for(var i=0;i<num_passive_tools;i++){
-		var temp = "atlas.passive_tools#at"+i;
+	for(var i=0;i<num_Accessories;i++){
+		var temp = "atlas.Accessories#at"+i;
 		var id = i;
 		var ch_name = $(temp+" > ch_name").text();
 		var type = $(temp+" > type").text();
 		var en_name = $(temp+" > en_name").text();
 		var effect = $(temp+" > effect").text();
-		all_atlas.push(creat_passive_tools_atlas(id,type,en_name,ch_name,effect));
+		all_atlas.push(creat_Accessories(id,type,en_name,ch_name,effect));
 	}
 	return all_atlas;
 }
