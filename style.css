@@ -4,3 +4,8 @@ div#display{
 	height: 200px;
 	overflow: scroll;
 }
+
+body{
+	background-color: gray;
+}
+
