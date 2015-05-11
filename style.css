@@ -9,7 +9,9 @@ body{
 	background-color: gray;
 }
 
-img{
-	height: 50px;
-	margin-top: 22px;
+img.active_tools,img.Accessories{
+	max-height: 35px;
+	max-width: 35px;
+	width: 35px;
+	margin: 1px;
 }
