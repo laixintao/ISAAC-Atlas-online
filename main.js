@@ -26,13 +26,13 @@ function on_Click_Listener(myclick){
 	if(this_class==="active_tools"){
 		str = "<p>中文名："+active_tools[click_id].ch_name+"<br />"+
 		"英文名："+active_tools[click_id].en_name+"<br />"+
-		//"类型"+ctive_tools[click_id].type+"<br />"+
+		"类型:"+active_tools[click_id].atype+"<br />"+
 		"充能时间："+active_tools[click_id].charge_time+"<br />"+
 		"效果："+active_tools[click_id].effect+"</p>";
 	}else if(this_class==="Accessories"){
 		str = "<p>中文名："+Accessories[click_id].ch_name+"<br />"+
-		"英文名："+Accessories[click_id].en_name+"<br />"
-		+
+		"英文名："+Accessories[click_id].en_name+"<br />"+
+		"类型："+Accessories[click_id].atype+"<br />"+
 		"效果："+Accessories[click_id].effect+"</p>";
 	}
 	
