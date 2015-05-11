@@ -1,11 +1,38 @@
 div#display{
 	border-style: solid;
+	border-color: red;
+	background-color: grey;
+
 	width: 600px;
 	height: 200px;
+
 	overflow: scroll;
+
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+div#active-tools-div,div#Accessories{
+	width: 80%;
+	height: auto;
+
+	margin-top: 4px;
+	margin-bottom: 4px;
+
+	margin-right: auto;
+	margin-left: auto;
+}
+
+div#atlas{
+	height: auto;
+	width: 50%;
+
+	margin-left: auto;
+	margin-right: auto; 
 }
 
 body{
+	
 }
 
 body div{
@@ -13,9 +40,9 @@ body div{
 }
 
 img.active_tools,img.Accessories{
-	max-height: 35px;
-	max-width: 35px;
-	width: 35px;
+	max-height: 24px;
+	max-width: 24px;
+	width: 24px;
 	margin: 1px;
 }
 
@@ -25,10 +52,15 @@ img#bgimg{
 	top:0px;
 	height: 100%;
 	width: 100%;
-	z-index:-1;
+	z-index:-12;
 }
 
-div#bgdiv{
-	z-index: 0;
-	float: left;
+img#paper{
+	position: absolute;
+	left: 30%;
+	top: 20%;
+	height: 100%;
+	width: 100%;
+	z-index: -1;
+	display: none;;
 }
