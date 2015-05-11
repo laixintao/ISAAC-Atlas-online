@@ -1,19 +1,39 @@
-div#display{
-	border-style: solid;
-	border-color: red;
-	background-color: grey;
-
-	width: 600px;
-	height: 200px;
-
-	overflow: scroll;
-
-	margin-left: auto;
-	margin-right: auto; 
-
-
+div#board{
+	position: absolute;
+	left: 30%;
+	top: 17%;
+	width: 60%;
+	height: auto;
+	display: none;
 }
 
+div#display{
+	font-family: arial, sans-serif;
+	background-color: #8B8970;
+	overflow: scroll;
+	overflow-x:visible ;
+
+	float: left;
+	width: 70%;
+	margin: 0 auto;
+	-moz-box-shadow:2px 2px 5px #333333, 6px 10px 14px #333333; -webkit-box-shadow:2px 2px 5px #333333, 6px 10px 14px #333333; box-shadow:2px 2px 5px #333333, 6px 10px 14px #333333;
+}
+div#close{
+	float: left;
+	
+}
+
+
+div#isaac{
+	margin-right: auto;
+	margin-left: auto;
+	width: 450px;
+}
+
+img#isaac-tittle{
+	height: auto;
+	width: 450px;
+}
 div#active-tools-div,div#Accessories{
 	width: 80%;
 	height: auto;
@@ -26,12 +46,19 @@ div#active-tools-div,div#Accessories{
 }
 
 div#atlas{
-	position: absolute;
-	left: 19%;
-	top: 29%;
 
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 4.6%;
+	padding-right: 4.6%;
+	padding-top: 7%;
+	padding-bottom: 6%;
+
+	background-image: url("graphics/room.png");
+	background-size: 1002px 580px;
+	background-repeat: none;
 	height: auto;
-	width: 65%;
+	width: 900px;
 
 	
 
@@ -61,14 +88,3 @@ img#bgimg{
 	z-index:-12;
 }
 
-img#paper{
-	height: auto;
-	width: 115%;	
-}
-
-div#divpaper{
-	position: absolute;
-	left: 13%;
-	top: 17%;
-	z-index: -1;
-}
