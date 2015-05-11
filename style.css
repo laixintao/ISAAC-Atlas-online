@@ -6,7 +6,10 @@ div#display{
 }
 
 body{
-	background-color: gray;
+}
+
+body div{
+	z-index: 50;
 }
 
 img.active_tools,img.Accessories{
@@ -14,4 +17,18 @@ img.active_tools,img.Accessories{
 	max-width: 35px;
 	width: 35px;
 	margin: 1px;
+}
+
+img#bgimg{
+	position:absolute;
+	left:0px;
+	top:0px;
+	height: 100%;
+	width: 100%;
+	z-index:-1;
+}
+
+div#bgdiv{
+	z-index: 0;
+	float: left;
 }
