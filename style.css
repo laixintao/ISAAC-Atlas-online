@@ -10,6 +10,8 @@ div#display{
 
 	margin-left: auto;
 	margin-right: auto; 
+
+
 }
 
 div#active-tools-div,div#Accessories{
@@ -24,11 +26,15 @@ div#active-tools-div,div#Accessories{
 }
 
 div#atlas{
-	height: auto;
-	width: 50%;
+	position: absolute;
+	left: 19%;
+	top: 29%;
 
-	margin-left: auto;
-	margin-right: auto; 
+	height: auto;
+	width: 65%;
+
+	
+
 }
 
 body{
@@ -56,11 +62,13 @@ img#bgimg{
 }
 
 img#paper{
+	height: auto;
+	width: 115%;	
+}
+
+div#divpaper{
 	position: absolute;
-	left: 30%;
-	top: 20%;
-	height: 100%;
-	width: 100%;
+	left: 13%;
+	top: 17%;
 	z-index: -1;
-	display: none;;
 }

@@ -2,7 +2,6 @@ var active_tools;
 var Accessories;
 
 $().ready(function(){
-	
 	active_tools = get_active_tools_atlas();
 	Accessories = get_Accessories();
 	add_Listener();
