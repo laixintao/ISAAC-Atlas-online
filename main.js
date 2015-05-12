@@ -31,7 +31,10 @@ function on_Click_Listener(myclick){
 		"英文名："+active_tools[click_id].en_name+"<br />"+
 		"类型:"+active_tools[click_id].atype+"<br />"+
 		"充能时间："+active_tools[click_id].charge_time+"<br />"+
-		"效果："+active_tools[click_id].effect+"</p>";
+		"效果："+active_tools[click_id].effect;
+		if(active_tools[click_id].unlock.length>0)
+			str+="<br />解锁方式："+active_tools[click_id].unlock;
+		str+="</p>";
 	}else if(this_class==="Accessories"){
 		str = "<p>中文名："+Accessories[click_id].ch_name+"<br />"+
 		"英文名："+Accessories[click_id].en_name+"<br />"+

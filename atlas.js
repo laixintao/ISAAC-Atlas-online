@@ -1,11 +1,11 @@
 //如果添加新道具，需要修改：
 
-var num_active_tools = 73;
+var num_active_tools = 74;
 var num_Accessories = 184;
 
 //**************************************
 
-function creat_active_tools_atlas(id,type,en_name,ch_name,charge_time,effect){
+function creat_active_tools_atlas(id,type,en_name,ch_name,charge_time,effect,unlock){
 	var active_tools_atlas = new Object();
 	active_tools_atlas.id = id;
 	active_tools_atlas.atype=type;
@@ -13,6 +13,7 @@ function creat_active_tools_atlas(id,type,en_name,ch_name,charge_time,effect){
 	active_tools_atlas.ch_name=ch_name;
 	active_tools_atlas.charge_time=charge_time;
 	active_tools_atlas.effect=effect;
+	active_tools_atlas.unlock=unlock;
 	return active_tools_atlas;
 }
 
@@ -27,7 +28,8 @@ function get_active_tools_atlas(){
 		var en_name = $(temp+" > en_name").text();
 		var charge_time = $(temp+" > charge_time").text();
 		var effect = $(temp+" > effect").text();
-		all_atlas.push(creat_active_tools_atlas(id,type,en_name,ch_name,charge_time,effect));
+		var unlock = $(temp+" > unlock").text();
+		all_atlas.push(creat_active_tools_atlas(id,type,en_name,ch_name,charge_time,effect,unlock));
 	}
 	return all_atlas;
 }
