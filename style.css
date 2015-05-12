@@ -8,19 +8,30 @@ div#board{
 }
 
 div#display{
-	font-family: arial, sans-serif;
-	background-color: #8B8970;
-	overflow: scroll;
-	overflow-x:visible ;
+	font-family:arial, sans-serif,"微软雅黑" ;
+	background-image: url("graphics/displaybg.png");
 
 	float: left;
 	width: 70%;
 	margin: 0 auto;
-	-moz-box-shadow:2px 2px 5px #333333, 6px 10px 14px #333333; -webkit-box-shadow:2px 2px 5px #333333, 6px 10px 14px #333333; box-shadow:2px 2px 5px #333333, 6px 10px 14px #333333;
+	
+	padding-left: 8px;
+	padding-top: 5px;
+
+	border-style: solid;
+	border-color: #F7D52B;
+	/*color: #8DB2C9;*/
+
 }
 div#close{
-	float: left;
+	margin-right: 0;
+	float: right;
 	
+}
+
+div#display{
+	-moz-box-shadow: 10px 10px 5px #553c28; /* 老的 Firefox */
+	box-shadow: 10px 10px 20px #000000;
 }
 
 

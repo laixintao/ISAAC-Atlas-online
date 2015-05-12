@@ -26,27 +26,36 @@ function on_Click_Listener(myclick){
 	click_id = click_id.replace("img","");
 	var str;
 	var this_class = $(myclick).attr("class");
+
+	var num = parseInt(click_id)+1;
+
 	if(this_class==="active_tools"){
-		str = "<p>中文名："+active_tools[click_id].ch_name+"<br />"+
-		"英文名："+active_tools[click_id].en_name+"<br />"+
-		"类型:"+active_tools[click_id].atype+"<br />"+
-		"充能时间："+active_tools[click_id].charge_time+"<br />"+
-		"效果："+active_tools[click_id].effect;
+		str = "<div class='temp' style='float:left;'><img style='max-height: 50px;max-width: 50px;width: 50px;margin: 5px;' src='graphics/active_tools/"+
+		num+".png'></div><div class='temp' style='color=#191501;font-size:18px;float:left;'><p ><strong>"+
+
+		active_tools[click_id].ch_name+"("+active_tools[click_id].atype+")</strong><br />"+
+		"<i>"+active_tools[click_id].en_name+"</i><br /></p></div>"+
+
+		"<div class='temp' style='color:#8DB2C9;clear:both;'><p><span style='background-color: gray;'><strong>充能时间：</strong></span>"+active_tools[click_id].charge_time+"<br />"+
+		"<span style='background-color: gray;'><strong>效果：</strong></span>"+active_tools[click_id].effect;
 		if(active_tools[click_id].unlock.length>0)
-			str+="<br />解锁方式："+active_tools[click_id].unlock;
-		str+="</p>";
+			str+="<br /><strong>解锁方式：</strong>"+active_tools[click_id].unlock;
+		str+="</p><div>";
 	}else if(this_class==="Accessories"){
-		str = "<p>中文名："+Accessories[click_id].ch_name+"<br />"+
-		"英文名："+Accessories[click_id].en_name+"<br />"+
-		"类型："+Accessories[click_id].atype+"<br />"+
-		"效果："+Accessories[click_id].effect;
+		str = "<div class='temp' style='float:left;'><img style='max-height: 50px;max-width: 50px;width: 50px;margin: 5px;' src='graphics/Accessories/"+
+		num+".png'></div><div class='temp' style='font-size:18px;float:left;'><p ><strong>"+
+
+		Accessories[click_id].ch_name+"("+Accessories[click_id].atype+")</strong><br />"+
+		"<i>"+Accessories[click_id].en_name+"</i><br /></p></div>"+
+
+		"<div class='temp' style='color:#8DB2C9;clear:both;'><span style='background-color: gray;'><strong>效果：</strong></span>>"+Accessories[click_id].effect;
 		if(Accessories[click_id].unlock.length>0)
-			str+="<br />解锁方式："+Accessories[click_id].unlock;
-		str+="</p>";
+			str+="<br /><span style='background-color: gray;'><strong>解锁方式：</strong></span>"+Accessories[click_id].unlock;
+		str+="</p><div>";
 	}
 	
 
-	$("#display > p").detach();  //先移除之前的元素，在添加新的
+	$("#display > .temp").detach();  //先移除之前的元素，在添加新的
 	$("#display").append(str);
 	$("#board").css("display","inline");
 }
