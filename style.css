@@ -73,9 +73,9 @@ body div{
 }
 
 img.active_tools,img.Accessories{
-	max-height: 24px;
-	max-width: 24px;
-	width: 24px;
+	max-height: 23px;
+	max-width: 23px;
+	width: 23px;
 	margin: 1px;
 }
 

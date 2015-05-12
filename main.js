@@ -39,7 +39,10 @@ function on_Click_Listener(myclick){
 		str = "<p>中文名："+Accessories[click_id].ch_name+"<br />"+
 		"英文名："+Accessories[click_id].en_name+"<br />"+
 		"类型："+Accessories[click_id].atype+"<br />"+
-		"效果："+Accessories[click_id].effect+"</p>";
+		"效果："+Accessories[click_id].effect;
+		if(Accessories[click_id].unlock.length>0)
+			str+="<br />解锁方式："+Accessories[click_id].unlock;
+		str+="</p>";
 	}
 	
 
