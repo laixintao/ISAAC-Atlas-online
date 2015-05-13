@@ -48,7 +48,7 @@ img#isaac-tittle{
 	height: auto;
 	width: 450px;
 }
-div#active-tools-div,div#Accessories{
+div#active-tools-div,div#Accessories,div#cards{
 	width: 80%;
 	height: auto;
 
@@ -86,6 +86,11 @@ body div{
 img.active_tools,img.Accessories{
 	max-height: 23px;
 	max-width: 23px;
+	width: 23px;
+	margin: 1px;
+}
+
+img.cards{
 	width: 23px;
 	margin: 1px;
 }
