@@ -36,10 +36,10 @@ function on_Click_Listener(myclick){
 		active_tools[click_id].ch_name+"("+active_tools[click_id].atype+")</strong><br />"+
 		"<i>"+active_tools[click_id].en_name+"</i><br /></p></div>"+
 
-		"<div class='temp' style='color:#8DB2C9;clear:both;'><p><span style='background-color: gray;'><strong>充能时间：</strong></span>"+active_tools[click_id].charge_time+"<br />"+
-		"<span style='background-color: gray;'><strong>效果：</strong></span>"+active_tools[click_id].effect;
+		"<div class='temp' style='color:#8DB2C9;clear:both;'><p><span style='background-color: #FFD700;'><strong>充能时间：</strong></span>"+active_tools[click_id].charge_time+"<br />"+
+		"<span style='background-color: #FFD700;'><strong>效果：</strong></span>"+active_tools[click_id].effect;
 		if(active_tools[click_id].unlock.length>0)
-			str+="<br /><span style='background-color: gray;'><strong>解锁方式：</strong></span>"+active_tools[click_id].unlock;
+			str+="<br /><span style='background-color: #FFD700;'><strong>解锁方式：</strong></span>"+active_tools[click_id].unlock;
 		str+="</p><div>";
 	}else if(this_class==="Accessories"){
 		str = "<div class='temp' style='float:left;'><img style='max-height: 50px;max-width: 50px;width: 50px;margin: 5px;' src='graphics/Accessories/"+
@@ -48,9 +48,9 @@ function on_Click_Listener(myclick){
 		Accessories[click_id].ch_name+"("+Accessories[click_id].atype+")</strong><br />"+
 		"<i>"+Accessories[click_id].en_name+"</i><br /></p></div>"+
 
-		"<div class='temp' style='color:#8DB2C9;clear:both;'><span style='background-color: gray;'><strong>效果：</strong></span>>"+Accessories[click_id].effect;
+		"<div class='temp' style='color:#8DB2C9;clear:both;'><span style='background-color: #FFD700;'><strong>效果：</strong></span>>"+Accessories[click_id].effect;
 		if(Accessories[click_id].unlock.length>0)
-			str+="<br /><span style='background-color: gray;'><strong>解锁方式：</strong></span>"+Accessories[click_id].unlock;
+			str+="<br /><span style='background-color: #FFD700;'><strong>解锁方式：</strong></span>"+Accessories[click_id].unlock;
 		str+="</p><div>";
 	}
 	
