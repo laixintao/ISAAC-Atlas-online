@@ -1,6 +1,6 @@
 //如果添加新道具，需要修改：
 
-var num_active_tools = 74;
+var num_active_tools = 75;
 var num_Accessories = 267;
 
 //**************************************
