@@ -40,7 +40,7 @@ div#isaac{
 	margin-left: auto;
 	width: 450px;
 	position: absolute;
-	left: 33%;
+	left: 35%;
 	top: 1%;
 }
 
@@ -48,7 +48,7 @@ img#isaac-tittle{
 	height: auto;
 	width: 450px;
 }
-div#active-tools-div,div#Accessories,div#cards{
+div#active-tools-div,div#Accessories,div#shipin{
 	width: 80%;
 	height: auto;
 
@@ -59,20 +59,26 @@ div#active-tools-div,div#Accessories,div#cards{
 	margin-left: auto;
 }
 
+div#cards{
+	text-align:center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 div#atlas{
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 5%;
+	margin-top: 1.5%;
 	padding-left: 4.6%;
 	padding-right: 4.6%;
 	padding-top: 7%;
 	padding-bottom: 6%;
 
 	background-image: url("graphics/room.png");
-	background-size: 1100px 650px;
+	background-size: 1190px 688px;
 	background-repeat: none;
 	height: auto;
-	width: 990px;
+	width: 1040px;
 }
 
 body{
@@ -83,7 +89,7 @@ body div{
 	z-index: 50;
 }
 
-img.active_tools,img.Accessories{
+img.active_tools,img.Accessories,img.shipin{
 	max-height: 23px;
 	max-width: 23px;
 	width: 23px;
