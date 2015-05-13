@@ -56,7 +56,7 @@ function on_Click_Listener(myclick){
 			str+="<br /><span style='background-color: #FFD700;'><strong>解锁方式：</strong></span>"+Accessories[click_id].unlock;
 		str+="</p><div>";
 	}else if(this_class==="cards"){
-		str = "<div class='temp' style='float:left;'><img style='max-height: 50px;max-width: 50px;width: 50px;margin: 5px;' src='graphics/cards/"+
+		str = "<div class='temp' style='float:left;'><img style='height: 60px;width: 47px;margin: 5px;' src='graphics/cards/"+
 		num+".jpg'></div><div class='temp' style='font-size:18px;float:left;'><p ><strong>"+
 
 		cards[click_id].ch_name+"("+cards[click_id].atype+")</strong><br />"+
