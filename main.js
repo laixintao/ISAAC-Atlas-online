@@ -85,9 +85,9 @@ function on_Click_Listener(myclick){
     str+="</p><div>";
   }
 	
-
+  	str = str.replace(/brbrbr/g,"<br />- 与");
 	$("#display > .temp").detach();  //先移除之前的元素，在添加新的
-	$("#display").append(str);
+	$("#display").append(str); //替换回车换行
 	$("#board").css("display","inline");
 }
 
